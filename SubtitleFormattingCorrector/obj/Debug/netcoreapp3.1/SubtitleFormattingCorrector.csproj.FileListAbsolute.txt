@@ -1,0 +1,15 @@
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\bin\Debug\netcoreapp3.1\SubtitleFormattingCorrector.exe
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\bin\Debug\netcoreapp3.1\SubtitleFormattingCorrector.deps.json
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\bin\Debug\netcoreapp3.1\SubtitleFormattingCorrector.runtimeconfig.json
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\bin\Debug\netcoreapp3.1\SubtitleFormattingCorrector.runtimeconfig.dev.json
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\bin\Debug\netcoreapp3.1\SubtitleFormattingCorrector.dll
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\bin\Debug\netcoreapp3.1\SubtitleFormattingCorrector.pdb
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleLanguageSwapper.Form1.resources
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.AssemblyInfo.cs
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.dll
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.pdb
+C:\Users\valen\source\repos\SubtitleFormattingCorrector\SubtitleFormattingCorrector\obj\Debug\netcoreapp3.1\SubtitleFormattingCorrector.genruntimeconfig.cache
